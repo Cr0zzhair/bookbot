@@ -22,3 +22,5 @@ def sort_characters(char_count):
 
 def sort_on(item):
     return item["num"]
+
+#Spam no corelation  HKEY_USERS HKEY_CURRENT_CONFIG
