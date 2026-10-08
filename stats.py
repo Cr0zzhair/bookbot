@@ -24,3 +24,4 @@ def sort_on(item):
     return item["num"]
 
 #Spam no corelation  HKEY_USERS HKEY_CURRENT_CONFIG
+# DEFAULT (mounted on `HKEY_USERS\DEFAULT`)
