@@ -40,4 +40,5 @@ def sort_on(item):
 ### Tabel Alokasi File:
 
 #Tabel Alokasi File adalah daftar tertaut dari semua cluster. Ini berisi status cluster dan penunjuk ke cluster berikutnya dalam rantai.
+#it should be added
 
